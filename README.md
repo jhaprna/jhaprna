@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**jhaprna/jhaprna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **MBA in Finance & Business Analytics**  
+🏦 **Ex-Valuations Analyst @ EY GDS**  
+🐍 **Machine Learning Enthusiast**  
+🤖 **Aspiring Data Scientist (with a splash of paint!)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+From crunching valuations at Ernst & Young GDS to crunching code as a self-taught data wrangler, I’ve spent 2+ years turning complex financial puzzles into clear, actionable insights. Now, I’m channeling my finance acumen and analytical superpowers into the world of data science—where machine learning meets money matters!
+
+**My toolkit:**  
+- Python & SQL (self-taught and loving it!)
+- Machine Learning (finance-focused, real-world projects galore)
+- A knack for translating business needs into data-driven solutions
+
+When I’m not decoding datasets or hunting for the next “a-ha!” moment, you’ll find me with a paintbrush in hand—proving data and creativity are not mutually exclusive.
+
+---
