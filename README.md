@@ -1,9 +1,9 @@
 # Hi there! 👋
 
 🎓 **MBA in Finance & Business Analytics**  
-🏦 **Ex-Valuations Analyst @ EY GDS**  
+🏦 **Analyst @ EY GDS**  
 🐍 **Machine Learning Enthusiast**  
-🤖 **Aspiring Data Scientist (with a splash of paint!)**
+🤖 **Data Scientist (with a splash of paint!)**
 
 ---
 
